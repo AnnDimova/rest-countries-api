@@ -17,6 +17,8 @@ Users are now able to:
 
 ![](image.png)
 
+### 
+- Live Server: https://rest-countries-api-murex-kappa.vercel.app/
 ### Built with
 
 - [TypeScript](https://www.typescriptlang.org/)
